@@ -35,7 +35,19 @@ npm run dev
 yarn dev
 ```
 
-Production Deploy
+Production Deployed in vercel (now.sh)
+
+![alt text](https://user-images.githubusercontent.com/15128569/83929854-7b210400-a7b2-11ea-8759-473e0dae1565.png)
+
+![alt text](https://user-images.githubusercontent.com/15128569/83930050-5bd6a680-a7b3-11ea-9f42-cb1a43ae7fdd.png)
+
+![alt text](https://user-images.githubusercontent.com/15128569/83930056-6133f100-a7b3-11ea-828e-75f12beecd37.png)
+
+![alt text](https://user-images.githubusercontent.com/15128569/83930058-61cc8780-a7b3-11ea-92a4-bf2d99ece431.png)
+
+![alt text](https://user-images.githubusercontent.com/15128569/83930059-62fdb480-a7b3-11ea-8bdb-099b6f706e65.png)
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
