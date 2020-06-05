@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "bootstrap": "^4.5.0",
+    "classnames": "^2.2.6",
+    "firebase": "^7.14.6",
     "next": "9.4.4",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-dropzone": "^11.0.1",
+    "react-image-crop": "^8.6.2",
+    "reactstrap": "^8.4.1",
+    "sass": "^1.26.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
   }
 }

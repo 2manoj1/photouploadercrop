@@ -1,0 +1,31 @@
+.thumbsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 16;
+  };
+  
+.thumb {
+    display: inline-flex;
+    border-radius: 2;
+    border: '1px solid #eaeaea';
+    margin-bottom: 8;
+    margin-right: 8;
+    width: 128px;
+    height: 128px;
+    padding: 4;
+    box-sizing: border-box
+  };
+  
+.thumbInner {
+    display: flex;
+    min-width: 0;
+    overflow: hidden
+  };
+  
+.imgPreview {
+    display: block;
+    width: auto;
+    height: 100%;
+};
+
