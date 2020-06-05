@@ -2,8 +2,9 @@
 
 Step:
 
-- Clone The Repo in your local System
-- ```bash
+1. Clone The Repo in your local System
+2.
+```bash
 npm i
 # or
 yarn
