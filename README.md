@@ -3,7 +3,7 @@
 Step:
 
 1. Clone The Repo in your local System
-2.
+2. Install Depedency (Nodejs Required)
 ```bash
 npm i
 # or
