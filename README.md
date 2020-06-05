@@ -9,6 +9,20 @@ npm i
 # or
 yarn
 ```
+3. Add Firebase cardinal in .env file (Ref .env-example)
+```bash
+touch .env
+``` 
+
+```bash
+FIREBASE_API_KEY=""
+FIREBASE_AUTH_DOMAIN=""
+FIREBASE_DATABASE_URL=""
+FIREBASE_PROJECT_ID=""
+FIREBASE_STORAGE_BUCKET=""
+FIREBASE_MESSAGING_SENDER_ID="7"
+FIREBASE_APP_ID=""
+```
 
 Run the development server:
 
@@ -23,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Nextjs Framework (Server side Reactjs)
+## This project Bootstrap with Nextjs Framework (Server side Reactjs)
 
 
 To learn more about Next.js, take a look at the following resources:
