@@ -1,4 +1,4 @@
-[Live Demo](ttps://photocrop.now.sh)
+[Live Demo](https://photocrop.now.sh)
 
 ## Getting Started
 
